@@ -61,11 +61,11 @@
 
 XGB Boost 모델이 모든 단계에서 최고의 성능을 나타냈다. 그러므로 쉬운 추론을 위해 해당 모델을 튜닝, 검증 후 파이프라인으로 구축하였다.
 
-* 튜닝, 검증된 그룹 스테이지 모델의 혼동 행렬(Confusion Matrix)
+* 튜닝, 검증된 그룹 스테이지 모델의 오차 행렬(Confusion Matrix)
 
 ![download-10](https://user-images.githubusercontent.com/60159274/193368594-3d6f69a8-cc6c-456c-9408-a2ebc1f72ee1.png)
 
-* 튜닝, 검증된 녹아웃 스테이지 모델의 혼동 행렬(Confusion Matrix)
+* 튜닝, 검증된 녹아웃 스테이지 모델의 오차 행렬(Confusion Matrix)
 
 ![download-9](https://user-images.githubusercontent.com/60159274/193368596-cbd0a492-7399-49af-be28-bd6c4a014694.png)
 
